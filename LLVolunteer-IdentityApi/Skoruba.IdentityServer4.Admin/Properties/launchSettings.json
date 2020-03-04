@@ -1,0 +1,13 @@
+{
+  
+  "profiles": {
+    "Skoruba.IdentityServer4.Admin": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:9000/"
+    }
+  }
+}

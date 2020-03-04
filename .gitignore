@@ -3,3 +3,14 @@
 ################################################################################
 
 /LLVolunteer-IdentityApi/.vs/LLVolunteer-IdentityApi/v16
+/LLVolunteer-IdentityApi/*/bin
+/LLVolunteer-IdentityApi/*/obj
+/LLVolunteer-IdentityApi/.vs
+/LLVolunteer-IdentityApi/*/*/obj
+/LLVolunteer-IdentityApi/*/*/bin
+/LLVolunteer-IdentityApi/*/*/*/obj
+/LLVolunteer-IdentityApi/*/*/*/bin
+/.vs
+/LLVolunteer-IdentityApi/Skoruba.IdentityServer4.STS.Identity/.vs
+/LLVolunteer-IdentityApi/Skoruba.IdentityServer4.STS.Identity/Migrations
+/LLVolunteer-IdentityApi/Skoruba.IdentityServer4.STS.Identity/Data/Migrations
